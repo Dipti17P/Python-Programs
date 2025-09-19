@@ -17,6 +17,9 @@ Features include:
 
 This project demonstrates **GUI programming with Tkinter** and **database integration with MySQL**.  
 
+<img width="745" height="560" alt="image" src="https://github.com/user-attachments/assets/f5a1467f-e3f3-4ec1-bd5e-96667773a876" />
+
+
 *(More projects will be added soon!)*  
 
 ---
